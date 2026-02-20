@@ -1,4 +1,4 @@
-# Project Sukoon: Mental Health Support using AI
+# Mental Health Support using AI
 
 
 ## Open Roles for Tech Tasks 
@@ -22,7 +22,7 @@
 
 ## Vision
 
-Project Sukoon aims to build open-source solutions and standards for using AI to address mental health challenges. Our goal is to apply Digital Public Infrastructure (DPI) knowledge and practices to help professionals explore and understand the latest advancements in AI and their applications to mental health use-cases specific to India.
+Project aims to build open-source solutions and standards for using AI to address mental health challenges. Our goal is to apply Digital Public Infrastructure (DPI) knowledge and practices to help professionals explore and understand the latest advancements in AI and their applications to mental health use-cases specific to India.
 
 ## 🚀 Project Progress
 
